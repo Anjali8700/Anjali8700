@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anjali8700
 - 👀 I’m interested in UX/UI.
 - 🌱 I’m currently learning Designing.
-- 
 - 📫 How to reach me anjalibhardwaj0077@gmail.com
 
 <!---
